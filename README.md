@@ -16,7 +16,7 @@ Home screen:
 
 Activity B opened:
 
-<img width="324" alt="Screenshot 2024-10-06 at 8 19 48 PM" src="https://github.com/user-attachments/assets/3b27938f-c211-4848-a7cc-72b4cc14b481">
+<img width="324" alt="Screenshot 2024-10-06 at 8 18 31 PM" src="https://github.com/user-attachments/assets/42b7a87b-8055-4a2c-9f0f-b3f946b46c5a">
 
 
 
@@ -24,7 +24,8 @@ Activity B opened:
 
 Count incremented by 5:
 
-<img width="324" alt="Screenshot 2024-10-06 at 8 18 31 PM" src="https://github.com/user-attachments/assets/42b7a87b-8055-4a2c-9f0f-b3f946b46c5a">
+
+<img width="324" alt="Screenshot 2024-10-06 at 8 19 48 PM" src="https://github.com/user-attachments/assets/3b27938f-c211-4848-a7cc-72b4cc14b481">
 
 
 Dialog opened:
